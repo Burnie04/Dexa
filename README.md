@@ -2,7 +2,7 @@ Dexa AI 🧠
  
 A collaborative, multimodal AI assistant that combines **Financial Analysis**, **Real-time Music**, **Live Weather**, and **Coding Capabilities** into a single workspace. Built with **Flask**, **React**, and **Google Gemini 2.0 Flash**.
 
-![Dexa AI Demo](https://via.placeholder.com/800x400.png?text=Dexa+AI+Dashboard+Preview)
+It hasnt been deployed but can be deployed , It was more of a fun and learning project that gavea me a an inside to how python works and whether or not I would prefer pursuing it in future.
 
 🚀 Key Features
 
