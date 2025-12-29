@@ -1,0 +1,13 @@
+flask
+flask-cors
+python-dotenv
+google-genai
+wikipedia
+fpdf
+flask-sqlalchemy
+flask-login
+werkzeug
+psycopg2-binary
+yfinance
+numpy
+duckduckgo-search
